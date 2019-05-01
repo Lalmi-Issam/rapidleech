@@ -1,7 +1,7 @@
 <?php
 ######## Account Info ########
-$upload_acc['archive_org']['accessKey'] = ''; //Set your login
-$upload_acc['archive_org']['secretKey'] = ''; //Set your password
+$upload_acc['archive_org']['accessKey'] = 'wKX10DkF6hhrfyKm'; //Set your login
+$upload_acc['archive_org']['secretKey'] = 'gg7ZaNpZ7g3NSWlg'; //Set your password
 # Get your Api Keys @ https://archive.org/account/s3.php
 ########################
 
